@@ -1,4 +1,4 @@
-package org.example;
+package Колекции;
 import java.math.BigInteger;
 import java.util.*;
 
